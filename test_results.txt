@@ -1,3 +1,2 @@
 First line of code is correct
-Second line of code contains bugs
-Third line of code is correct
+Second line of code is correct
